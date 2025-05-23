@@ -1,0 +1,7 @@
+{
+  "homepage": "https://github.com/TOQUANGTUNG.github.io/<tên-repo>",
+  "scripts": {
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  }
+}
